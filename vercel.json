@@ -1,0 +1,8 @@
+{
+    "regions": [
+        "sin1"
+    ],
+    "env": {
+        "TZ": "Asia/Bangkok"
+    }
+}
